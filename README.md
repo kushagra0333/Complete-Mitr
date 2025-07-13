@@ -121,6 +121,6 @@ Complete-Mitr/
 
 ## 🌐 Live Links
 
-- 🗺️ **Tracking Site**: [mitr-location.vercel.app](https://mitr-location.vercel.app/)
-- ⚙️ **API Endpoint**: [mitr-new-api.onrender.com](https://mitr-new-api.onrender.com/)
-- 💾 **Embedded Firmware**: `embedded/MitrSOSDevice.ino`
+- 🌍 **Live Map (Frontend)**: [mitr-location.vercel.app](https://mitr-location.vercel.app/)
+- ⚙️ **API (Backend)**: [mitr-new-api.onrender.com](https://mitr-new-api.onrender.com/)
+- 📦 **Embedded Repo**: `embedded/MitrSOSDevice.ino`
