@@ -1,4 +1,4 @@
-![MITR System Architecture](structure.jpeg)
+![MITR System Architecture](intro.jpeg)
 
 # 🚨 MITR SOS Device – Complete Emergency Alert System
 
