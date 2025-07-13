@@ -1,4 +1,4 @@
-![MITR System Architecture](/home/arjav-jain/coding/embedded/Complete-Mitr)
+![MITR System Architecture](structure.jpeg)
 
 # 🚨 MITR SOS Device – Complete Emergency Alert System
 
